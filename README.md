@@ -1,5 +1,5 @@
 ### Hi there, I'm Bappi 👍
-## I am Java Software Engineer 👨‍💻, Database Engineer 🛠, GoJS Expert 📈
+### I am Java Software Engineer 👨‍💻, Database Engineer 🛠, GoJS Expert 📈
 <!--
 **bappimazumder/bappimazumder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
