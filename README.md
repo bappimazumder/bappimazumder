@@ -4,7 +4,7 @@
 🤝Connect with Me:
 
 <a href="https://www.linkedin.com/in/bappimazumder/"><img align="left" src="https://raw.githubusercontent.com/bappimazumder/bappimazumder/main/image/linkedin_4138130.png" alt="icon | LinkedIn" width="21px"/></a>
-<a href="https://twitter.com/bappi_mazumder"><img align="left" src="https://raw.githubusercontent.com/bappimazumder/bappimazumder/main/image/twitter.png" alt="icon | LinkedIn" width="21px"/></a>
+<a href="https://twitter.com/bappi_mazumder/"><img align="left" src="https://raw.githubusercontent.com/bappimazumder/bappimazumder/main/image/twitter.png" alt="icon | Twitter" width="21px"/></a>
 
 
 <!--
