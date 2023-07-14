@@ -1,10 +1,16 @@
-### Hi there, I'm Bappi 🖐
-### I am Java Software Engineer 👨‍💻, Database Engineer 🛠, GoJS Expert 📈
+### Bappi Mazumder 👨‍👨‍👧‍👦
+### Java Software Engineer 👨‍💻, Database Engineer 🛠, GoJS Expert 📈 !
+
+### Hello World! 🌏
+
+I'm Bappi Mazumder. I'm currently Senior Software Engineer👨‍💻 in Dhaka. passionate about developing new software and fixing problems with the existing system.
+
+💬 if you have any questions/feedback, please don't hesitate to reach out to me!
+
 
 🤝Connect with Me:
 
-<a href="https://www.linkedin.com/in/bappimazumder/"><img align="left" src="https://raw.githubusercontent.com/bappimazumder/bappimazumder/main/image/linkedin_4138130.png" alt="icon | LinkedIn" width="21px"/></a>
-<a href="https://twitter.com/bappi_mazumder/"><img align="left" src="https://raw.githubusercontent.com/bappimazumder/bappimazumder/main/image/twitter.png" alt="icon | Twitter" width="21px"/></a>
+<a href="https://www.linkedin.com/in/bappimazumder/"><img align="left" src="https://raw.githubusercontent.com/bappimazumder/bappimazumder/main/image/linkedin_4138130.png" alt="icon | LinkedIn" width="21px"/></a><a href="https://twitter.com/bappi_mazumder/"><img align="left" src="https://raw.githubusercontent.com/bappimazumder/bappimazumder/main/image/twitter.png" alt="icon | Twitter" width="21px"/></a>
 
 
 <!--
